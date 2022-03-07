@@ -11,6 +11,9 @@
 
 If you have any SQL Injection Payloads, just create a PullRequest. 
 
+# Todos
+
+# Infos
 
 https://owasp.org/www-community/attacks/SQL_Injection
 
