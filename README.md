@@ -13,7 +13,8 @@ If you have any SQL Injection Payloads, just create a PullRequest.
 
 # Todos
 
-- [ ] xss for page param 
+- [ ] sql injection for page param 
+- [ ] sql injection for search input fields 
 
 
 # Infos
