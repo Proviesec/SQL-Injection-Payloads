@@ -15,6 +15,7 @@ If you have any SQL Injection Payloads, just create a PullRequest.
 
 - [ ] sql injection for page param 
 - [ ] sql injection for search input fields 
+- [ ] payloads for sensitive data 
 
 
 # Infos
